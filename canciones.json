@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "titulo": "La Loba",
+        "artista": "La Chica",
+        "genero": "indie"
+    },
+    {
+        "id": 2,
+        "titulo": "Ilalo",
+        "artista": "Chancha Bia Circuito feat Mateo Kingman",
+        "genero": "Electropachamamico"
+    },
+    {
+        "id": 3,
+        "titulo": "Dead weight on velevetine",
+        "artista": "José González",
+        "genero": "Folk"
+    },
+    {
+        "id": 4,
+        "titulo": "Pajaros",
+        "artista": "Bomba estereo",
+        "genero": "latin pop"
+    },
+    {
+        "id": 5,
+        "titulo": "Howling",
+        "artista": "Ry X",
+        "genero": "electropop"
+    },
+    {
+        "id": 6,
+        "titulo": "Religar",
+        "artista": "Mateo Kingman",
+        "genero": "folk latino"
+    },
+    {
+        "id": 7,
+        "titulo": "Darle la vuelta al mundo",
+        "artista": "Calle 13",
+        "genero": "Latino"
+    },
+    {
+        "id": 8,
+        "titulo": "Be able",
+        "artista": "La chica",
+        "genero": "Electro pop"
+    },
+    {
+        "id": 9,
+        "titulo": "Linda",
+        "artista": "Rosalía",
+        "genero": "pop"
+    },
+    {
+        "id": 10,
+        "titulo": "Bizcochito",
+        "artista": "Rosalía",
+        "genero": "pop"
+    },
+    {
+        "id": 11,
+        "titulo": "Somos 2",
+        "artista": "Bomba estereo",
+        "genero": "Latin pop"
+    },
+    {
+        "id": 12,
+        "titulo": "Warm Shadow",
+        "artista": "Fink",
+        "genero": "Indie "
+    },
+    {
+        "id": 13,
+        "titulo": "Retrograde",
+        "artista": "James Blake",
+        "genero": "Electronica"
+    },
+    {
+        "id": 14,
+        "titulo": "Let the river in",
+        "artista": "Dotan",
+        "genero": "Folk"
+    },
+    {
+        "id": 15,
+        "titulo": "Anhelando Iruya",
+        "artista": "Perota Chingo",
+        "genero": "Folk Latino"
+    }
+]
